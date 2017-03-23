@@ -1,0 +1,274 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="false" />
+    <globalmarks />
+    <filemarks>
+      <file name="/File Header.txt.ft" timestamp="1483414988752">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1482823088965">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/HTML4 File.txt.ft" timestamp="1483414782807">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Interface.txt.ft" timestamp="1483414982432">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/XHTML File.txt.ft" timestamp="1483414783385">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/cygwin64/home/15040813/ops/Flow Manager/flowmgr-core/src/main/java/com/cnsuning/fm/LagManager.java" timestamp="1482741784313">
+        <mark key="[" line="8" column="29" />
+      </file>
+      <file name="/ColdFusion Script Interface.txt.ft" timestamp="1483414793430">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/ColdFusion Tag Interface.txt.ft" timestamp="1483414792566">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Bash Script.txt.ft" timestamp="1483414788413">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/ColdFusion Script Component.txt.ft" timestamp="1483414793024">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/HTML File.txt.ft" timestamp="1483415121289">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/ColdFusion Tag Component.txt.ft" timestamp="1483414791823">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/package-info.txt.ft" timestamp="1483414979840">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/tsconfig.json.txt.ft" timestamp="1483414790943">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/JavaScript File.txt.ft" timestamp="1483414789094">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/AnnotationType.txt.ft" timestamp="1483414980358">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/ActionScript File Header.txt.ft" timestamp="1483415079680">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/cygwin64/home/15040813/ops/Flow Manager/flowmgr-core/src/main/java/com/cnsuning/fm/core/FmException.java" timestamp="1482563386625">
+        <mark key="[" line="5" column="24" />
+      </file>
+      <file name="/AMD JavaScript File.txt.ft" timestamp="1483414789943">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Arquillian Deployment Method.txt.ft" timestamp="1483414892482">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/XML Properties File.txt.ft" timestamp="1483414787982">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/ActionScript Class.txt.ft" timestamp="1483414793848">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/cygwin64/home/15040813/ops/Flow Manager/flowmgr-core/src/main/java/com/cnsuning/fm/Report.java" timestamp="1483166151395">
+        <mark key="[" line="8" column="21" />
+      </file>
+      <file name="/TypeScript File.txt.ft" timestamp="1483414790454">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/ColdFusion File.txt.ft" timestamp="1483414791398">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Enum.txt.ft" timestamp="1483414980797">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Class.txt.ft" timestamp="1483415154802">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/module-info.txt.ft" timestamp="1483414976669">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="0" column="0" filename="D:/cygwin64/home/15040813/ops/hostmgr/src/test/java/com/cnsuning/hm/repo/HostRepoTest.java" />
+      <jump line="32" column="0" filename="D:/cygwin64/home/15040813/ops/hostmgr/src/test/java/com/cnsuning/hm/repo/HostRepoTest.java" />
+      <jump line="22" column="4" filename="D:/cygwin64/home/15040813/ops/hostmgr/src/test/java/com/cnsuning/hm/repo/HostRepoTest.java" />
+      <jump line="119" column="12" filename="D:/cygwin64/home/15040813/ops/hostmgr/src/main/java/com/cnsuning/hm/service/impl/LinkServiceImpl.java" />
+      <jump line="28" column="12" filename="D:/cygwin64/home/15040813/ops/hostmgr/src/main/java/com/cnsuning/hm/restapi/Register.java" />
+      <jump line="103" column="0" filename="D:/cygwin64/home/15040813/ops/hostmgr/src/main/java/com/cnsuning/hm/service/impl/LinkServiceImpl.java" />
+      <jump line="64" column="11" filename="D:/cygwin64/home/15040813/ops/hostmgr/src/main/resources/bdhm.sh" />
+      <jump line="77" column="0" filename="D:/cygwin64/home/15040813/ops/hostmgr/src/main/resources/bdhm.sh" />
+      <jump line="131" column="7" filename="D:/cygwin64/home/15040813/ops/hostmgr/src/main/resources/bdhm.sh" />
+      <jump line="89" column="3" filename="D:/cygwin64/home/15040813/ops/hostmgr/src/main/resources/bdhm.sh" />
+      <jump line="105" column="0" filename="D:/cygwin64/home/15040813/ops/hostmgr/src/main/resources/bdhm.sh" />
+      <jump line="76" column="15" filename="D:/cygwin64/home/15040813/ops/hostmgr/src/main/resources/bdhm.sh" />
+      <jump line="61" column="15" filename="D:/cygwin64/home/15040813/ops/hostmgr/src/main/resources/bdhm.sh" />
+      <jump line="47" column="15" filename="D:/cygwin64/home/15040813/ops/hostmgr/src/main/resources/bdhm.sh" />
+      <jump line="109" column="13" filename="D:/cygwin64/home/15040813/ops/hostmgr/src/main/resources/bdhm.sh" />
+      <jump line="108" column="11" filename="D:/cygwin64/home/15040813/ops/hostmgr/src/main/resources/bdhm.sh" />
+      <jump line="100" column="4" filename="D:/cygwin64/home/15040813/ops/hostmgr/src/main/resources/bdhm.sh" />
+      <jump line="142" column="12" filename="D:/cygwin64/home/15040813/ops/hostmgr/src/main/resources/bdhm.sh" />
+      <jump line="98" column="13" filename="D:/cygwin64/home/15040813/ops/hostmgr/src/main/resources/bdhm.sh" />
+      <jump line="10" column="0" filename="D:/cygwin64/home/15040813/ops/hostmgr/src/main/resources/bdhm.sh" />
+      <jump line="3" column="14" filename="D:/cygwin64/home/15040813/ops/hostmgr/src/main/resources/bdhm.sh" />
+      <jump line="4" column="14" filename="D:/cygwin64/home/15040813/ops/hostmgr/src/main/resources/bdhm.sh" />
+      <jump line="83" column="0" filename="D:/cygwin64/home/15040813/ops/opsmain/docs/prd_scale.md" />
+      <jump line="10" column="0" filename="D:/cygwin64/home/15040813/ops/flume/bin/stop_agent.sh" />
+      <jump line="10" column="0" filename="D:/cygwin64/home/15040813/ops/flume/bin/start_agent.sh" />
+      <jump line="29" column="12" filename="D:/cygwin64/home/15040813/ops/hostmgr/src/main/resources/agent.sh" />
+      <jump line="53" column="87" filename="D:/cygwin64/home/15040813/ops/hostmgr/src/main/resources/agent.sh" />
+      <jump line="128" column="6" filename="D:/cygwin64/home/15040813/ops/hostmgr/src/main/resources/agent.sh" />
+      <jump line="75" column="1" filename="D:/cygwin64/home/15040813/ops/hostmgr/src/main/resources/agent.sh" />
+      <jump line="129" column="0" filename="D:/cygwin64/home/15040813/ops/hostmgr/src/main/resources/bdhm.sh" />
+      <jump line="175" column="11" filename="D:/cygwin64/home/15040813/ops/hostmgr/src/main/resources/agent.sh" />
+      <jump line="19" column="25" filename="D:/cygwin64/home/15040813/ops/hostmgr/src/main/java/com/cnsuning/hm/entity/ServiceName.java" />
+      <jump line="18" column="0" filename="D:/cygwin64/home/15040813/ops/hostmgr/src/main/java/com/cnsuning/hm/entity/ServiceName.java" />
+      <jump line="20" column="0" filename="D:/cygwin64/home/15040813/ops/hostmgr/src/main/java/com/cnsuning/hm/web/ui/VaadinUI.java" />
+      <jump line="33" column="13" filename="$USER_HOME$/.m2/repository/org/apache/curator/curator-x-discovery/2.11.1/curator-x-discovery-2.11.1-sources.jar!/org/apache/curator/x/discovery/ServiceInstance.java" />
+      <jump line="16" column="0" filename="D:/cygwin64/home/15040813/ops/flumex/pom.xml" />
+      <jump line="257" column="35" filename="D:/cygwin64/home/15040813/ops/Flow Manager/pom.xml" />
+      <jump line="23" column="26" filename="D:/cygwin64/home/15040813/ops/Flow Manager/pom.xml" />
+      <jump line="265" column="21" filename="D:/cygwin64/home/15040813/ops/Flow Manager/pom.xml" />
+      <jump line="270" column="0" filename="D:/cygwin64/home/15040813/ops/Flow Manager/pom.xml" />
+      <jump line="20" column="0" filename="D:/cygwin64/home/15040813/ops/curator-examples/src/main/java/leader/ExampleClient.java" />
+      <jump line="20" column="0" filename="D:/cygwin64/home/15040813/ops/curator-examples/src/main/java/leader/LeaderSelectorExample.java" />
+      <jump line="66" column="0" filename="D:/cygwin64/home/15040813/ops/Flow Manager/prototypes/leader/src/test/java/com/cnsuning/fm/leader/LeaderSelectorExample.java" />
+      <jump line="38" column="71" filename="D:/cygwin64/home/15040813/ops/Flow Manager/prototypes/leader/src/main/java/com/cnsuning/fm/leader/ExampleClient.java" />
+      <jump line="15" column="25" filename="D:/cygwin64/home/15040813/ops/Flow Manager/prototypes/leader/src/main/java/com/cnsuning/fm/leader/ExampleClient.java" />
+      <jump line="26" column="0" filename="D:/cygwin64/home/15040813/ops/curator-examples/src/main/java/discovery/InstanceDetails.java" />
+      <jump line="31" column="0" filename="D:/cygwin64/home/15040813/ops/Flow Manager/prototypes/leader/src/main/java/com/cnsuning/fm/discovery/InstanceDetails.java" />
+      <jump line="47" column="0" filename="D:/cygwin64/home/15040813/ops/curator-examples/src/main/java/discovery/ExampleServer.java" />
+      <jump line="20" column="0" filename="D:/cygwin64/home/15040813/ops/curator-examples/src/main/java/discovery/DiscoveryExample.java" />
+      <jump line="260" column="0" filename="D:/cygwin64/home/15040813/ops/Flow Manager/prototypes/leader/src/test/java/com/cnsuning/fm/discovery/DiscoveryExample.java" />
+      <jump line="360" column="19" filename="$USER_HOME$/.m2/repository/org/apache/curator/curator-recipes/2.11.1/curator-recipes-2.11.1-sources.jar!/org/apache/curator/framework/recipes/cache/PathChildrenCache.java" />
+      <jump line="60" column="45" filename="$USER_HOME$/.m2/repository/org/apache/curator/curator-recipes/2.11.1/curator-recipes-2.11.1-sources.jar!/org/apache/curator/framework/recipes/cache/PathChildrenCache.java" />
+      <jump line="59" column="45" filename="$USER_HOME$/.m2/repository/org/apache/curator/curator-recipes/2.11.1/curator-recipes-2.11.1-sources.jar!/org/apache/curator/framework/recipes/cache/PathChildrenCache.java" />
+      <jump line="229" column="49" filename="D:/cygwin64/home/15040813/ops/curator-examples/src/main/java/cache/PathCacheExample.java" />
+      <jump line="20" column="0" filename="D:/cygwin64/home/15040813/ops/curator-examples/src/main/java/cache/PathCacheExample.java" />
+      <jump line="237" column="0" filename="D:/cygwin64/home/15040813/ops/Flow Manager/prototypes/leader/src/main/java/com/cnsuning/fm/cache/PathCacheExample.java" />
+      <jump line="177" column="32" filename="D:/cygwin64/home/15040813/ops/Flow Manager/prototypes/leader/src/main/java/com/cnsuning/fm/cache/PathCacheExample.java" />
+      <jump line="20" column="33" filename="D:/cygwin64/home/15040813/ops/Flow Manager/prototypes/leader/src/main/java/com/cnsuning/fm/cache/PathCacheExample.java" />
+      <jump line="146" column="34" filename="D:/cygwin64/home/15040813/ops/Flow Manager/prototypes/leader/src/main/java/com/cnsuning/fm/cache/PathCacheExample.java" />
+      <jump line="102" column="12" filename="D:/cygwin64/home/15040813/ops/Flow Manager/prototypes/leader/src/main/java/com/cnsuning/fm/cache/PathCacheExample.java" />
+      <jump line="94" column="21" filename="D:/cygwin64/home/15040813/ops/Flow Manager/prototypes/leader/src/main/java/com/cnsuning/fm/cache/PathCacheExample.java" />
+      <jump line="15" column="27" filename="D:/cygwin64/home/15040813/ops/Flow Manager/flowmgr-core/src/main/java/com/cnsuning/fm/Task.java" />
+      <jump line="470" column="39" filename="D:/jee/jdk1.8.0_102/src.zip!/java/util/HashMap.java" />
+      <jump line="68" column="20" filename="D:/cygwin64/home/15040813/ops/Flow Manager/flowmgr-core/src/main/java/com/cnsuning/fm/Task.java" />
+      <jump line="9" column="36" filename="D:/cygwin64/home/15040813/ops/Flow Manager/flowmgr-core/src/main/java/com/cnsuning/fm/Task.java" />
+      <jump line="24" column="26" filename="D:/cygwin64/home/15040813/ops/Flow Manager/pom.xml" />
+      <jump line="26" column="54" filename="D:/cygwin64/home/15040813/ops/Flow Manager/flowmgr-core/src/test/java/com/cnsuning/fm/TestTaskDef.java" />
+      <jump line="18" column="34" filename="D:/cygwin64/home/15040813/ops/Flow Manager/flowmgr-core/src/main/java/com/cnsuning/fm/RunningStatus.java" />
+      <jump line="68" column="0" filename="D:/cygwin64/home/15040813/ops/Flow Manager/flowmgr-core/src/main/java/com/cnsuning/fm/lifecycle/LifecycleController.java" />
+      <jump line="338" column="1" filename="D:/cygwin64/home/15040813/ops/Flow Manager/flowmgr-core/src/main/java/com/cnsuning/fm/lifecycle/LifecycleSupervisor.java" />
+      <jump line="72" column="0" filename="D:/cygwin64/home/15040813/ops/Flow Manager/flowmgr-core/src/main/java/com/cnsuning/fm/CounterGroup.java" />
+      <jump line="46" column="54" filename="D:/cygwin64/home/15040813/ops/Flow Manager/prototypes/leader/src/test/java/com/cnsuning/fm/discovery/DiscoveryExample.java" />
+      <jump line="27" column="29" filename="D:/cygwin64/home/15040813/ops/Flow Manager/pom.xml" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA8bW9kdWxlPnByb3RvdHlwZXM8L21vZHVsZT4K</text>
+      </register>
+      <register name="-" type="4">
+        <text>Google</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxndWF2YVw+</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Z3JvdXBJZD5vcmcuYXBhY2hlLm1hdmVuLnBsdWdpbnM8L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+bWF2ZW4tY2hlY2tzdHlsZS1wbHVnaW48L2FydGlmYWN0SWQ+Cg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICA8bW9kdWxlPnByb3RvdHlwZXM8L21vZHVsZT4K</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICA8bW9kdWxlPmZsb3dtZ3ItY2hlY2tzdHlsZTwvbW9kdWxlPgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICA8bW9kdWxlPmZsb3dtZ3ItY2xpPC9tb2R1bGU+CiAgICAgICAgPG1vZHVsZT5mbG93bWdyLWNoZWNrc3R5bGU8L21vZHVsZT4K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIC0tPgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIDwhLS0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CgoKCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIDxhcnRpZmFjdElkPmZsb3dtZ3ItY2hlY2tzdHlsZTwvYXJ0aWZhY3RJZD4K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIDxwYXJlbnQ+CiAgICAgICAgPGFydGlmYWN0SWQ+Zmxvd21nci1wYXJlbnQ8L2FydGlmYWN0SWQ+CiAgICA8L3BhcmVudD4K</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIDxncm91cElkPmNvbS5jbnN1bmluZy5mbTwvZ3JvdXBJZD4K</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-search encoding="base64">XDxndWF2YVw+</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxndWF2YVw+</last-pattern>
+      <last-replace>Integer</last-replace>
+      <last-substitute>Long</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry encoding="base64">XDxjdXJsXD4=</entry>
+        <entry encoding="base64">XDxWRVJCT1NFXD4=</entry>
+        <entry encoding="base64">XDxsb2NhbGhvc3RcPg==</entry>
+        <entry encoding="base64">XDxmb3JcPg==</entry>
+        <entry>create</entry>
+        <entry>Worker</entry>
+        <entry encoding="base64">XDxzZXJ2ZXJzXD4=</entry>
+        <entry>\t</entry>
+        <entry>dist</entry>
+        <entry>Long</entry>
+        <entry encoding="base64">XDxwcm92aWRlcnNcPg==</entry>
+        <entry encoding="base64">XDx2ZXJzaW9uXD4=</entry>
+        <entry encoding="base64">XDxndWF2YVw+</entry>
+      </history-search>
+      <history-cmd>
+        <entry>%s/\t/\ \ \ \ /g</entry>
+        <entry>s</entry>
+        <entry encoding="base64">JzwsJz53</entry>
+        <entry>%s/Long/Integer/g</entry>
+        <entry>q</entry>
+        <entry>wq</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
