@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="fm" type="Bash" />
+      <mapping pattern=".ci" type="Bash" />
       <mapping pattern="flume-agentd" type="PLAIN_TEXT" />
       <mapping ext="lic" type="PLAIN_TEXT" />
     </extensionMap>
